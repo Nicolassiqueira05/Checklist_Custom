@@ -1,0 +1,43 @@
+{
+  "documentacao_geral": [
+    {
+      "site": "Solicitação de Contratação (Ofício/Gestor)",
+      "sei": "(X) Solicitação da contratação do (a) estagiário(a) assinado pelo Gestor da vaga de estágio, nos termos Resolução nº 036/2025;"
+    },
+    {
+      "site": "Comprovante Bancário (Banestes)",
+      "sei": "(X) Comprovante Bancário (cópia do extrato ou cartão) contendo número da conta corrente ou universitária (Banco do Estado do Espírito Santo - Banestes) (Art. 24);"
+    },
+    {
+      "site": "Declaração da Instituição de Ensino (IES)",
+      "sei": "(X) Declaração, atualizada, da Instituição de Ensino Superior, constando a MATRÍCULA, o PERÍODO, o CURSO e o HORÁRIO DE FREQUÊNCIA (Art. 24)(OU INTEGRALIZAÇÃO CURRICULAR - UFES);"
+    }
+  ],
+  "certidoes_negativas": [
+    {
+      "site": "Certidão Negativa Eleitoral",
+      "sei": "(X) Certidão Negativa da Justiça Eleitoral;"
+    },
+    {
+      "site": "Certidão Negativa Militar",
+      "sei": "(X) Certidão Negativa da Justiça Militar(disponível no site do STM);"
+    }
+  ],
+  "conciliador": [
+    {
+      "site": "Declaração de Informática",
+      "sei": "(X) Declaração de conhecimentos básicos em informática e digitação."
+    }
+  ],
+  "pos_graduacao": [
+    {
+      "site": "Diploma de ensino superior",
+      "sei": "(X) Cópia do diploma de conclusão do curso superior;"
+    },
+    {
+      "site": "Declaração OAB",
+      "sei": "(X) Declaração de inexistência de inscrição ativa junto à Ordem dos Advogados do Brasil (OAB) (Art. 24);"
+    }
+  ]
+}
+
